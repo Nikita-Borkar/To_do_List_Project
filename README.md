@@ -1,4 +1,4 @@
-# My_personal_portfolio_project
+# To_do_List_Project
 Task of web development internship given by TechnoHacks
 
 📝 Simple To-Do List Application
