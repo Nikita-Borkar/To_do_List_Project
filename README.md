@@ -27,7 +27,7 @@ Frontend: HTML, CSS, JavaScript
 
 🔹 Clone the Repository
 
-git clone https://github.com/Nikita-Borkar/My_personal_portfolio_project.git
+git clone https://github.com/Nikita-Borkar/To_do_List_Project.git
 
 cd My_personal_portfolio_project
 
