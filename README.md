@@ -27,7 +27,7 @@ Frontend: HTML, CSS, JavaScript
 
 🔹 Clone the Repository
 
-git clone https://github.com/your-username/My_personal_portfolio_project.git
+git clone https://github.com/Nikita-Borkar/My_personal_portfolio_project.git
 
 cd My_personal_portfolio_project
 
@@ -133,7 +133,7 @@ cd My_personal_portfolio_project
 
 📢 Connect with Me
 
-🔗 GitHub: https://github.com/Nikita18082003
+🔗 GitHub: https://github.com/Nikita-Borkar
 
 🔗 LinkedIn: www.linkedin.com/in/nikita-borkar-790277270 
 
